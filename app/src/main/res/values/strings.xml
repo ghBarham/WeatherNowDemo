@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherNowDemo</string>
+    <string name="countries_list_hint">Select a country</string>
+    <string name="cities_list_hint">Select the city</string>
+
+    <!-- error msgs-->
+    <string name="weather_loading_failed">Failed to load weather for </string>
+</resources>
